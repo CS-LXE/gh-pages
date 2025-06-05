@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="CS-LXE_CS_1.1" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Segment 2.3 - Drag &amp; Drop Activity Instructions</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">A storyboard of hover-over elements to show each step to complete the exercise</langstring>
+        </description>
+        <keyword>
+          <langstring xml:lang="x-none">systems science, systems thinking, complexity science</langstring>
+        </keyword>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Segment_2.3_-_Drag_&amp;_Drop_Activity_Instructions_ORG">
+    <organization identifier="Segment_2.3_-_Drag_&amp;_Drop_Activity_Instructions_ORG">
+      <title>Segment 2.3 - Drag &amp; Drop Activity Instructions</title>
+      <item identifier="Activity_Instructions_SCO" isvisible="true" identifierref="_CS-LXE_CS_1.1_RES">
+        <title>Drag &amp; Drop Activity How-To</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="_CS-LXE_CS_1.1_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6L2zkaqfDjl.gif" />
+      <file href="mobile/5bWjRU1pcW0.gif" />
+      <file href="mobile/6rk2uB8sfUh.gif" />
+      <file href="mobile/64l0SM5tbQC.gif" />
+      <file href="mobile/6gHYeOKcqrm.gif" />
+      <file href="mobile/6VU7tIr9vjV.gif" />
+      <file href="mobile/6gMKiPwMTDu.gif" />
+      <file href="mobile/5cgqnmvDhJE.gif" />
+      <file href="mobile/670tswBzKc1.gif" />
+      <file href="mobile/60lAbnUVia3.gif" />
+      <file href="mobile/6BVQLJqKsSS.gif" />
+      <file href="mobile/5cMMc37EKBE.gif" />
+      <file href="mobile/6qhHemwYVu2.gif" />
+      <file href="mobile/5iINBLUrUqV.gif" />
+      <file href="mobile/69IpPsQ2sLe.gif" />
+      <file href="mobile/6bnrQezoyaA.gif" />
+      <file href="mobile/6BMtcZ26X8s.gif" />
+      <file href="mobile/6bw81R21PcE.gif" />
+      <file href="story_content/5e9S5X1Atni.js" />
+      <file href="mobile/61PYsPaCKKG.gif" />
+      <file href="meta.xml" />
+      <file href="story_content/triggers.js" />
+      <file href="story_content/user.js" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5jtbUtPoRO1.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
